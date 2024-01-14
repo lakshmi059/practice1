@@ -1,0 +1,1 @@
+here we can take up a quiz add question and other features.when you answer a question it will also provide the answer to that particular question and it also shows us the result of the quiz that we have taken .
